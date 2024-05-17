@@ -1,0 +1,64 @@
+[24-Mar-2024 07:59:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[24-Mar-2024 07:59:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[24-Mar-2024 07:59:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[24-Mar-2024 07:59:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[24-Mar-2024 08:02:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[24-Mar-2024 08:02:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[24-Mar-2024 08:02:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[24-Mar-2024 08:02:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[26-Mar-2024 10:26:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[26-Mar-2024 10:26:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[26-Mar-2024 10:26:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[26-Mar-2024 10:27:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[26-Mar-2024 10:30:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[26-Mar-2024 10:30:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/Ctx.php on line 10
+[26-Mar-2024 10:30:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10
+[26-Mar-2024 10:30:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_ChaCha20_Ctx" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php on line 10

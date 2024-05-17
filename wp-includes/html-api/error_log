@@ -1,0 +1,16 @@
+[24-Mar-2024 06:34:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/jambhalasocmed.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[24-Mar-2024 06:34:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/jambhalasocmed.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[26-Mar-2024 09:09:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/jambhalasocmed.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[26-Mar-2024 09:09:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/ujianori/jambhalasocmed.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/html-api/class-wp-html-processor.php on line 131

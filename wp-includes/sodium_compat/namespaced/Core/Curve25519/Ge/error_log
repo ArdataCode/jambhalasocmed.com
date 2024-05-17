@@ -1,0 +1,144 @@
+[24-Mar-2024 07:54:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[24-Mar-2024 07:54:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[24-Mar-2024 07:54:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[24-Mar-2024 07:54:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[24-Mar-2024 07:55:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[24-Mar-2024 07:55:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[24-Mar-2024 07:55:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[24-Mar-2024 07:55:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[24-Mar-2024 07:55:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[24-Mar-2024 07:55:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[24-Mar-2024 07:55:47 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[24-Mar-2024 07:55:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[24-Mar-2024 07:55:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[24-Mar-2024 07:55:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[24-Mar-2024 07:55:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[24-Mar-2024 07:55:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[24-Mar-2024 07:56:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[24-Mar-2024 07:56:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[24-Mar-2024 07:56:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[24-Mar-2024 07:56:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[26-Mar-2024 10:23:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[26-Mar-2024 10:23:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[26-Mar-2024 10:23:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[26-Mar-2024 10:23:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[26-Mar-2024 10:23:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[26-Mar-2024 10:23:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[26-Mar-2024 10:23:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[26-Mar-2024 10:24:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[26-Mar-2024 10:24:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Cached" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php on line 4
+[26-Mar-2024 10:24:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[26-Mar-2024 10:24:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P1p1" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php on line 4
+[26-Mar-2024 10:24:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P2" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php on line 4
+[26-Mar-2024 10:24:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[26-Mar-2024 10:24:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_P3" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php on line 4
+[26-Mar-2024 10:24:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4
+[26-Mar-2024 10:24:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Curve25519_Ge_Precomp" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php on line 4

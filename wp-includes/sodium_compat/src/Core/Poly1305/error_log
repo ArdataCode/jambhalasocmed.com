@@ -1,0 +1,32 @@
+[24-Mar-2024 08:00:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[24-Mar-2024 08:00:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[24-Mar-2024 08:05:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[24-Mar-2024 08:05:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[26-Mar-2024 10:28:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[26-Mar-2024 10:28:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[26-Mar-2024 10:33:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10
+[26-Mar-2024 10:33:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/src/Core/Poly1305/State.php on line 10

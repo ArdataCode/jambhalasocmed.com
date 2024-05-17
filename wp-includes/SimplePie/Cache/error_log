@@ -1,0 +1,148 @@
+[24-Mar-2024 06:40:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php on line 50
+[24-Mar-2024 06:40:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php on line 50
+[24-Mar-2024 06:40:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[24-Mar-2024 06:40:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[24-Mar-2024 06:40:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[24-Mar-2024 06:41:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[24-Mar-2024 06:41:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[24-Mar-2024 06:41:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[24-Mar-2024 06:41:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php on line 27
+[24-Mar-2024 06:41:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php on line 27
+[24-Mar-2024 06:42:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php on line 50
+[24-Mar-2024 06:42:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php on line 50
+[24-Mar-2024 06:42:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[24-Mar-2024 06:42:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[24-Mar-2024 06:42:45 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[24-Mar-2024 06:42:46 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[24-Mar-2024 06:42:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[24-Mar-2024 06:42:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[24-Mar-2024 06:43:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php on line 27
+[24-Mar-2024 06:43:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php on line 27
+[26-Mar-2024 09:14:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php on line 50
+[26-Mar-2024 09:14:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/DB.php on line 50
+[26-Mar-2024 09:14:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[26-Mar-2024 09:14:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[26-Mar-2024 09:14:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[26-Mar-2024 09:14:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[26-Mar-2024 09:14:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[26-Mar-2024 09:14:40 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php on line 27
+[26-Mar-2024 09:14:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php on line 27
+[26-Mar-2024 09:16:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[26-Mar-2024 09:16:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[26-Mar-2024 09:16:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[26-Mar-2024 09:16:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[26-Mar-2024 09:16:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[26-Mar-2024 09:16:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "SimplePie_Cache_DB" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[26-Mar-2024 09:16:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php on line 27
+[26-Mar-2024 09:16:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface "SimplePie_Cache_Base" not found in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/SimplePie/Cache/Redis.php on line 27

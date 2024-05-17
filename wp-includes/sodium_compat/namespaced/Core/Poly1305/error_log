@@ -1,0 +1,24 @@
+[24-Mar-2024 07:37:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Poly1305_State" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[24-Mar-2024 07:37:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Poly1305_State" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[24-Mar-2024 07:52:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Poly1305_State" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[24-Mar-2024 07:52:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Poly1305_State" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[26-Mar-2024 10:08:41 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Poly1305_State" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4
+[26-Mar-2024 10:08:42 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Poly1305_State" not found in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php on line 4

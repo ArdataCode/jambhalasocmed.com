@@ -1,0 +1,32 @@
+[24-Mar-2024 06:32:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php on line 111
+[24-Mar-2024 06:32:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php on line 111
+[24-Mar-2024 06:46:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php on line 111
+[24-Mar-2024 06:47:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php on line 111
+[26-Mar-2024 09:07:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php on line 111
+[26-Mar-2024 09:08:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php on line 111
+[26-Mar-2024 09:20:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php on line 111
+[26-Mar-2024 09:20:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/jambhalasocmed.com/wp-includes/block-supports/background.php on line 111
